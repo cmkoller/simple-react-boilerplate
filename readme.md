@@ -15,7 +15,7 @@ This is a very simple app set-up that gets you up and running with React! It com
 Download the project:
 
 ```
-git clone <clone_url>
+git clone https://github.com/cmkoller/simple-react-boilerplate.git
 ```
 Open `package.json` and edit the name listed on line 2 to match the name of your app.
 
