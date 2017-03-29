@@ -19,6 +19,13 @@ Download the project:
 ```
 git clone https://github.com/cmkoller/simple-react-boilerplate.git
 ```
+
+Remove the existing Git history and start your own:
+
+```
+rm -rf .git && git init && git add -A && git commit -m 'Initial commit'
+```
+
 Open `/package.json` and edit the name listed on line 2 to match the name of your app.
 
 Open `/build/index.html` and update the title of the site, on line 5.
